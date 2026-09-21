@@ -1,4 +1,4 @@
-package associacoes.departamento;
+package atividades.a05associacoes.departamento;
 
 public class Aluno {
 

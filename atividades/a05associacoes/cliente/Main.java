@@ -1,4 +1,4 @@
-package associacoes.cliente;
+package atividades.a05associacoes.cliente;
 
 public class Main {
 

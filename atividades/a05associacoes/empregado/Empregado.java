@@ -1,4 +1,4 @@
-package associacoes.empregado;
+package atividades.a05associacoes.empregado;
 
 public class Empregado {
 

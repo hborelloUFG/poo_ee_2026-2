@@ -1,6 +1,6 @@
-package associacoes.empregado;
+package atividades.a05associacoes.empregado;
 
-import associacoes.cliente.Endereco;
+import atividades.a05associacoes.cliente.Endereco;
 
 public class Empresa {
 

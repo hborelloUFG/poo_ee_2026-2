@@ -1,4 +1,4 @@
-package associacoes.musica;
+package atividades.a05associacoes.musica;
 
 import java.util.ArrayList;
 import java.util.List;

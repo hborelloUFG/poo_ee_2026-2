@@ -1,4 +1,4 @@
-package associacoes.musica;
+package atividades.a05associacoes.musica;
 
 public class Main {
 
